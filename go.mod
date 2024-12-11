@@ -1,3 +1,3 @@
-module dtriantis/learning-go-with-tests
+module dtriantis/learn-go-with-tests
 
 go 1.23.4
